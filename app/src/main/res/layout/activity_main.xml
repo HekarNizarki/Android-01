@@ -26,8 +26,7 @@
         android:layout_height="200dp"
         android:layout_marginBottom="5dp"
         android:scaleType="fitXY"
-        app:srcCompat="@drawable/p1"
-        android:contentDescription="TODO" />
+        app:srcCompat="@drawable/p1" />
 
     <ImageView
         android:id="@+id/imageView4"
